@@ -13,7 +13,7 @@ define('DBNAME','u311429949_insys');
 
 //application address
 define('DIR','http://www.kevininschrijfsysteem.hol.es/');
-define('SITEEMAIL','kmasbergen@hotmail.com');
+define('SITEEMAIL','kevin@kevininschrijfsysteem.hol.es');
 
 try {
 
